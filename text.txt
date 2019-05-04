@@ -1,2 +1,3 @@
 Hello Git7edited this line
 It is new line
+New line
